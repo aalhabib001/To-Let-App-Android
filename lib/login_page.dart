@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'login_screen.dart';
-
+//This is a comment for testing git
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
