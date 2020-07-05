@@ -1,4 +1,5 @@
-# toletapp
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+# To-Let-App
 
 A fluuter App for house/space rent service
 
